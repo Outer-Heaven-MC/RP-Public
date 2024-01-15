@@ -1,1 +1,1 @@
-# RP-Publick
+# RP-Public
